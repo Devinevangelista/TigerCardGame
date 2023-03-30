@@ -1,4 +1,4 @@
-# TigerCardGame
+# Card Game
 
 This project was created in C++ using fundementals in Object Oriented Programming. 
 

@@ -13,3 +13,5 @@ There are five rounds. Each round is played as follows:
 5. If there is a tie, no player receives points.
 
 After five rounds, the player with the most points wins.
+
+See my website for a demonstration of how this game works. 
